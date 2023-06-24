@@ -62,7 +62,7 @@ The code repository has the following file structure:
      - The code also includes utility functions such as `get_correct_count` to calculate the number of correct predictions, `get_incorrect_preds` to retrieve incorrect predictions and their corresponding indices.
 
 ## Results:
-1. Group Normaliztion
+### 1. Group Normaliztion
    - No of Params: `47,818`
    - Best Training Accuracy : `71.75`
    - Best Test Accuracy : `73.68`
@@ -73,7 +73,7 @@ The code repository has the following file structure:
    ### Misclassified Images:
    ![image](https://github.com/Shashank-Gottumukkala/ERA-S8/assets/59787210/9648407e-7efb-475b-ba80-2c8902c70dd1)
 
-2. Batch Normaliztion
+### 2. Batch Normaliztion
    - No of Params: `47,818`
    - Best Training Accuracy : `76.28`
    - Best Test Accuracy : `79.57`
@@ -84,7 +84,7 @@ The code repository has the following file structure:
    ### Misclassified Images:
    ![image](https://github.com/Shashank-Gottumukkala/ERA-S8/assets/59787210/d1f5982c-356f-4f97-8827-8bbc70f23090)
 
-3. Layer Normaliztion
+### 3. Layer Normaliztion
    - No of Params: `47,818`
    - Best Training Accuracy : `66.94`
    - Best Test Accuracy : `68.55`
