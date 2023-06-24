@@ -70,7 +70,7 @@ The code repository has the following file structure:
    ![image](https://github.com/Shashank-Gottumukkala/ERA-S8/assets/59787210/efb7f613-09b0-48a1-a679-622ad220e7c6)
    ![image](https://github.com/Shashank-Gottumukkala/ERA-S8/assets/59787210/ae8e1ba7-ac6d-4bee-bfc6-4a4265567ab2)
 
-   ### Misclassidied Images:
+   ### Misclassified Images:
    ![image](https://github.com/Shashank-Gottumukkala/ERA-S8/assets/59787210/9648407e-7efb-475b-ba80-2c8902c70dd1)
 
 2. Batch Normaliztion
@@ -81,7 +81,7 @@ The code repository has the following file structure:
    ![image](https://github.com/Shashank-Gottumukkala/ERA-S8/assets/59787210/3a8f3c92-0043-4ef9-9e02-9232cd70a9e3)
    ![image](https://github.com/Shashank-Gottumukkala/ERA-S8/assets/59787210/a44a793f-14c2-4f81-be95-e87b1e4fe8a2)
 
-   ### Misclassidied Images:
+   ### Misclassified Images:
    ![image](https://github.com/Shashank-Gottumukkala/ERA-S8/assets/59787210/d1f5982c-356f-4f97-8827-8bbc70f23090)
 
 3. Layer Normaliztion
@@ -93,7 +93,7 @@ The code repository has the following file structure:
    ![image](https://github.com/Shashank-Gottumukkala/ERA-S8/assets/59787210/298d90ff-2f58-46cd-b63f-7755361f0b1b)
 
 
-   ### Misclassidied Images:
+   ### Misclassified Images:
    ![image](https://github.com/Shashank-Gottumukkala/ERA-S8/assets/59787210/68268936-60bd-4c13-bf9e-0063328bc871)
 
 
